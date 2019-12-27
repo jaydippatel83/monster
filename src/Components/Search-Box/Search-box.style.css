@@ -1,0 +1,15 @@
+.search{
+    -webkit-appearance: none;
+  
+    border: none;
+    outline: none;
+    padding: 20px;
+    width: 250px;
+    margin: 40px auto;
+}
+.g-font{
+    font-family: 'Bigelow Rules', cursive;
+    font-size: 72px;
+    margin-bottom: 10px;
+    color: #0ccac4
+}
